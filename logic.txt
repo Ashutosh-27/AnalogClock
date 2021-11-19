@@ -1,0 +1,6 @@
+logic :
+ An analog clock is a complete angle (i.e 360 degrees) each hour is placed at distance by 30 degrees 360 /12 = 30degrees
+
+There is distance of 6 degrees between each minute and each second respectively | 60 mins , 360 degree => 60 x 6 deg = 360 deg | which means with each minute passes minute hand rotates by 6 degrees same is applied on second hand
+
+For hour hand formula is 30 x hour + 0.5 x minutes why 0.5 ? because 1hr = 60mins & 1 hour = 30 deg Therefore 30/60 = 0.5degress , i.e for each minute 6 degrees rotation of minute hand the hour hand rotates by 0.5 degrees
